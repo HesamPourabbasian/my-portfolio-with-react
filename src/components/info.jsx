@@ -17,18 +17,18 @@ const Info = () => {
   }, []);
 
   return (
-    <div className="info-container avatar grid place-items-center pt-[90px] pb-[190px]">
-      <div className="mobile:w-[30%] w-[10%] rounded-full border-white border-[6px]">
+    <div className="info-container avatar grid place-items-center pt-[90px] pb-[190px] mobile:pb-[350px]">
+      <div className="mobile:w-[40%] w-[10%] rounded-full border-white border-[6px]">
         <img src="/IMG_6084.JPG" alt="Hesam" />
       </div>
-      <h2 className="text-black font-bold text-[20px] text-center 700px:text-[40px]">
+      <h2 className="text-black pt-[10px] font-bold text-[40px] text-center mobile:text-[40px]">
         Hello! I'm Hesam, <br />a front-end developer
       </h2>
       <div className="frst-btn">
         <a
           href="#contact"
         >
-          <button className="text-[#D6D5D1] mt-[20px] bg-black p-[10px] rounded-[50px] hover:bg-slate-600 transition duration-200 mobile:text-[10px] px-[15px]">
+          <button className="text-[#D6D5D1] mt-[20px] bg-black p-[10px] rounded-[50px] hover:bg-slate-600 transition duration-200 mobile:text-[20px] px-[15px]">
             Hire me!
           </button>
         </a>
