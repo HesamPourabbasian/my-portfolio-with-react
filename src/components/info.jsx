@@ -21,7 +21,7 @@ const Info = () => {
       <div className="mobile:w-[40%] w-[10%] rounded-full border-white border-[6px]">
         <img src="/IMG_6084.JPG" alt="Hesam" />
       </div>
-      <h2 className="text-black pt-[10px] font-bold text-[40px] text-center mobile:text-[40px]">
+      <h2 className="text-black pt-[10px] font-bold text-[40px] text-center mobile:p-[10px] mobile:text-[40px]">
         Hello! I'm Hesam, <br />a front-end developer
       </h2>
       <div className="frst-btn">
