@@ -61,7 +61,7 @@ const Contact = () => {
               maxWidth: "1450px",
             }}
           >
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-x-2 gap-y-4 w-full mobile:w-[70%]">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-x-2 gap-y-4 w-full">
               {links.map((link) => (
                 <a
                   key={link.name}
