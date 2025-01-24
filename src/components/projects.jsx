@@ -49,7 +49,7 @@ const Projects = () => {
     },
     {
       img: "/txxxx.jpg",
-      title: "Unknown",
+      title: "Football Quiz",
       description:
         "This Soccer Player Guessing Quiz is a fun and interactive web application designed to test users' knowledge of famous soccer players. Built using React for the frontend, the app allows users to guess the names of soccer players based on their images and hints. The project utilizes Tailwind CSS to provide a modern and responsive user interface, with a clean design that ensures a smooth and enjoyable user experience. The app's functionality includes dynamically shuffling player data, handling user input, and displaying results at the end of the quiz. To manage player data, a JSON file is used to store information about each player, which is fetched and displayed randomly. The app also features a welcoming modal, and users can choose the number of players they want to guess, ranging from 5 to 50. With real-time feedback and a scoring system, this quiz offers an engaging and educational experience for soccer fans.",
       summary:
