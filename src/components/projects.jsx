@@ -68,7 +68,7 @@ const Projects = () => {
     },
     {
       img: "/record.jpg",
-      title: "Project manager",
+      title: "Record manager",
       description:
         "This project is a student information management system built using React. The main goal of this project is to allow users to easily input, search, edit, or delete student records. In this system, users can add new student information, ensuring that each student ID is unique. This feature prevents duplicate records from being entered. Additionally, the system enables users to search records based on name or student ID.Moreover, it offers the ability to sort records by various criteria, such as student ID, name, or GPA. If needed, users can edit student information or delete records that are no longer required. The system can also calculate and display the average GPA of students.This project is designed to simplify the management and access of student information in educational environments, providing a straightforward user interface for interacting with the data.This project is built using React.js, styled with Tailwind CSS and the DaisyUI component library, which together ensure a modern, responsive, and visually appealing user interface, enhancing the overall user experience.",
       summary:
