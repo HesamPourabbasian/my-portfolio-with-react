@@ -58,15 +58,6 @@ const Projects = () => {
     },
 
     {
-      img: "/news.jpg",
-      title: "News Website",
-      description:
-        "The project is a sleek and responsive news website developed using React.js, designed to keep users updated with the latest headlines. It utilizes Tailwind CSS for its visually appealing and mobile-friendly design. The website integrates the News API to fetch real-time articles, categorizing them into specific sections like Politics, Technology, and Science. This allows users to effortlessly navigate and explore news based on their interests. With efficient API handling and a focus on performance, the platform provides a seamless browsing experience, delivering up-to-date and reliable information in a well-organized format.",
-      summary:
-        "The project is a sleek and responsive news website developed using React.js",
-      link: "https://news-api-xi-six.vercel.app/",
-    },
-    {
       img: "/xxxx.jpg",
       title: "E-commerce",
       description:
